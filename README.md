@@ -1,4 +1,4 @@
-Network_Analysis_R_Examples
+Network Analysis: R Examples & Labs
 ===========================
 
 R scripts and handouts from COMM 645: Communication Networks, a USC class led by Peter Monge that I TA-ed for in 2012.
